@@ -12,7 +12,16 @@ This is a simple Bash script that randomly stops the Apache service, (which woul
 
 This script assumes that there is an existing apache service running.
 
-This script has been built and tested on an Ubuntu machine.
+This script has been built and tested on an Ubuntu machine. Needs to be executed with sudo.
+
+```
+    sudo chmod 777 apache_stop.sh
+```
+
+To run this, 
+```
+    sudo ./apache_stop.sh
+```
 
 # 2. Password Change
 
