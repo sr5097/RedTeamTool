@@ -38,6 +38,8 @@ To run this,
     python3 pass_change.py
 ```
 
+This password change prompt does not stop even after a successful password change.
+
 # 3. Prompt
 
 This is a python script that throws random pop-ups on the screen and the prompts continue to show up until the answer is "yes" to a specific question.
