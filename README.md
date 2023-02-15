@@ -1,7 +1,7 @@
 # RedTeamTool
 
-Name: Salomi Rao
-Team: Team Bravo
+Name: Salomi Rao <br />
+Team: Team Bravo <br />
 Date: 15th Feb 2023
 
 I have three distraction tools built as a part of my red team tools assignment.
