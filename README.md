@@ -33,6 +33,11 @@ The username for the user in this case is "student" but can be easily changed or
 
 This assumes you are running python3 and using a Linux based machine.
 
+To run this, 
+```
+    python3 pass_change.py
+```
+
 # 3. Prompt
 
 This is a python script that throws random pop-ups on the screen and the prompts continue to show up until the answer is "yes" to a specific question.
@@ -43,3 +48,13 @@ This assumes you are running python3.
     sudo apt-get update
     sudo apt-get install python3-tk
 ```
+
+To run this,
+```
+    python3 prompt.py
+```
+
+
+# Execution
+
+Each of these can be executed in the above mentioned ways, but additionally can also be executed using a C2 or by adding these the cronjobs. For use in the competition, the filenames will not remain as clear and will be changed to seem like nothing of much importance.
