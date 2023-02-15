@@ -22,6 +22,15 @@ It is just being used to distract and take time away from the Blue team members.
 
 The username for the user in this case is "student" but can be easily changed or can include a list of users for ease of use within the competition.
 
+This assumes you are running python3 and using a Linux based machine.
+
 # 3. Prompt
 
 This is a python script that throws random pop-ups on the screen and the prompts continue to show up until the answer is "yes" to a specific question.
+
+This assumes you are running python3.
+
+```
+    sudo apt-get update
+    sudo apt-get install python3-tk
+```
